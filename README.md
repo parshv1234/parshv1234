@@ -10,7 +10,7 @@
 <!-- GitHub Intro Video -->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=WWK-HRjrQm8">
-    <img src="https://img.youtube.com/vi/WWK-HRjrQm8/0.jpg" 
+    <img src="https://img.youtube.com/vi/WWK-HRjrQm8/50.jpg" 
          alt="Watch my GitHub introduction video" 
          width="720" />
   </a>
