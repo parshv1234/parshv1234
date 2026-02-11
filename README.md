@@ -7,6 +7,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=550&lines=Machine+Learning+Focused+Engineer;AI+%26+ML+Enthusiast;Python+Developer;Problem+Solver;CSE+Undergraduate" />
 </p>
 
+<!-- GitHub Intro Video -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=WWK-HRjrQm8">
+    <img src="https://img.youtube.com/vi/WWK-HRjrQm8/0.jpg" 
+         alt="Watch my GitHub introduction video" 
+         width="720" />
+  </a>
+</p>
+
+<p align="center">
+  🎥 <b>Click to watch my 1-minute GitHub introduction</b>
+</p>
+
+
 ---
 
 ## 💫 About Me
